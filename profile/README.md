@@ -3,7 +3,7 @@
 ![GitHub banner2](https://github.com/nomad-rails/.github/assets/123777542/6ee6431c-0ad2-4807-a799-9c4c73547ace)
 
 
-## What is Nomad?
+## What is Nomad?🤔
 Nomad is your passport to seamless crypto off-ramping in Africa, built by Africans.
 Crypto Off-ramping in Africa usually involves switching between multiple tools and steps to get spendable cash (fiat). Most of these tools are untrustworthy, time-consuming, and inefficient, adding a layer of complexity to interacting with crypto.
 ### Where does Nomad come in?
