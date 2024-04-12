@@ -7,18 +7,17 @@
 Nomad is your passport to seamless crypto off-ramping in Africa, built by Africans.
 Crypto Off-ramping in Africa usually involves switching between multiple tools and steps to get spendable cash (fiat). Most of these tools are untrustworthy, time-consuming, and inefficient, adding a layer of complexity to interacting with crypto.
 ### Where does Nomad come in?
-Nomad is not just another wallet, app, or tool. 
-It is a solution that seamlessly integrates with existing financial channels such as; bank transfers and ATM cards, to give access to crypto and off-ramping
+Nomad steps in as a solution that seamlessly integrates with existing financial tools such as bank transfers and ATM cards, to offer users access to crypto and off-ramping.  
+Where users typically have to move to and fro multiple interfaces to offramp, nomad presents itself as an all-in-one package, embedded with features that streamline off-ramping, making it easy and seamless.  
+Nomad is not just another app, wallet, or tool. It's a solution that solely aims to eliminate the need for third-party tools when interacting with crypto. 
 ### How does Nomad do this?
-What sets Nomad apart is its innovative USSD feature.  
-Nomads USSD feature empowers users to create wallets, and send and receive crypto directly, all without needing third-party tools.  
-
-Through this USSD functionality, users can easily access crypto and initiate off-ramping via integrated bank transfer channels. Everything happens on the USSD interface!    
+Nomad achieves this with its innovative USSD feature.    
+This USSD feature empowers users to create wallets, conduct crypto transactions, and initiate off-ramping on a USSD interface!  
 Nomad aims to make interacting with crypto as easy and comfortable as dialing 911. 
 
 > [!TIP]
 > #### Glossary:
-> Crypto Off-ramping: The process of converting cryptocurrency into traditional fiat currency (like USD, EUR, etc.).   
+> Crypto Off-ramping: The process of converting cryptocurrency into traditional fiat currency (like USD, EUR, NGN, etc.).   
   This allows users to easily spend their crypto in the real world, such as withdrawing cash from ATMs or making purchases.  
 
 Join us as we revolutionize the way Africans engage with crypto, making it accessible and convenient across the continent 🚀🌍 
