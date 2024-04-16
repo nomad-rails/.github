@@ -13,8 +13,8 @@ Nomad is not just another app, wallet, or tool. It's a solution that solely aims
 ### How does Nomad do this?
 Nomad achieves this with its innovative USSD feature.    
 This USSD feature empowers users to create wallets, conduct crypto transactions, and initiate off-ramping on a USSD interface!  
-Nomad aims to make interacting with crypto as easy and comfortable as dialing 911. 
-Nomad provides this using account abstraction on Squads Protocol
+Nomad aims to make interacting with crypto as easy and comfortable as dialing 911. \n\n
+Nomad provides this using account abstraction on Squads Protocol. \n\n
 Cards sevices are built on the fine divide of web2 and web3 services. On the on-chain side we leverage Seabed Labs Pre-Authorized Debit and on the Web2 side we partnered with a card Issuer to allows KYC'd users spend in local currencies straight from their phantom wallet.
 
 > [!TIP]
